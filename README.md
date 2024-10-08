@@ -2,6 +2,8 @@
 
 This project is a simple "Whack-a-Mole" game implemented using HTML, CSS, and JavaScript. The game involves clicking on moles that appear randomly in different holes to earn points within a set time limit.
 
+Play it [here](https://gu-web-dev-2024.github.io/group-challenge-3-team-00/)
+
 ## Table of Contents
 - [Explanation of the Code](#explanation-of-the-code)
   - [HTML Structure](#html-structure)
